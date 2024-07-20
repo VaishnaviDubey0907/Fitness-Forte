@@ -39,12 +39,6 @@
 </p>
 
 
-<h4 align="center">Deployed On:</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-</p>
 
 
 
@@ -109,7 +103,7 @@
 
 <br />
 
-## Glimpses of JustShop.com 🙈 :
+## Glimpses of Fitness Forte :
 
 
 

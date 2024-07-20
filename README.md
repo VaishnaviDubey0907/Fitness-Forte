@@ -45,7 +45,7 @@
 
 
 
-<h3 align="center">="https://www.linkedin.com/in/vaishanvi0900/"><strong>Demo Video »</strong></a></h3>
+<h3 align="center">="https://www.linkedin.com/in/vaishanvi0900/"><strong> »</strong></a></h3>
 
 
 <br />

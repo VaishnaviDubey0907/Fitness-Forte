@@ -103,43 +103,6 @@
 
 <br />
 
-## Glimpses of Fitness Forte :
-
-
-
-
-<table>
-  <tr>
-    <td><img src="https://i.ibb.co/VgzzcTR/1.png"  alt="home" /></td>
-    <td><img  src="https://i.ibb.co/JFK5fRP/2.png"  alt="coupons" /></td>
-  </tr>
-  <tr>
-   <td><img src="https://i.ibb.co/T1tSCkk/3.png"  alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/zFMJfBs/4.png"  alt="men" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/CwCX5J2/5.png" alt="allProducts" /></td>
-    <td><img src="https://i.ibb.co/BNV9pbB/6.png"  alt="men" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/WscWdyY/7.png"  alt="women" /></td>
-    <td><img src="https://i.ibb.co/YP8g1vK/8.png"  alt="kids" /></td>
-  </tr>
-   <tr>
-    
-    <td><img src="https://i.ibb.co/VHkbmYJ/10.png"   alt="kids" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/FzKxvks/11.png""  alt="description" /></td>
-    <td><img src="https://i.ibb.co/BcMyGc6/12.png"   alt="descriptionDark" /></td>
-  </tr>
-  
-
-</table>
-
-<br />
-
-
 
 ## Getting Started
 
